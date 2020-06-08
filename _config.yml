@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jan-Niklas"
+  name             : "Jan-Niklas Voigt-Antons"
   avatar           : "profile.png"
   bio              : "Research in media experience (QoE, physiology) and interaction design"
   location         : "Berlin, Germany"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Technische Universität Berlin"
+  pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=IFIaOZsAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "jan-niklas@voigt-antons.de"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jantons"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2786-9262"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "janntons"
   vine             :
   weibo            :
   xing             :
