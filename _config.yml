@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr.-Ing. Jan-Niklas Voigt-Antons"
+title                    : "Dr.-Ing. Jan-Niklas Voigt-Antons, Dipl.-Psych."
 title_separator          : "-"
-name                     : &name "Jan-Niklas Voigt-Antons"
-description              : &description "personal description"
+name                     : &name "Dr.-Ing. Jan-Niklas Voigt-Antons, Dipl.-Psych."
+description              : &description "Research in media experience (QoE, physiology) and interaction design"
 url                      : https://jantons.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "voigt-antons.de/" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
