@@ -1,19 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching summer term 2020"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "Graduate course"
+permalink: /teaching/2020-summer-teaching
+venue: "Technische Universität Berlin, Quality and Usability Lab"
 date: 2014-01-01
-location: "City, Country"
+location: "Berlin, Germany"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Study project Neuro-Usability
 ======
 
-Heading 2
+Study project 
 ======
 
 Heading 3
