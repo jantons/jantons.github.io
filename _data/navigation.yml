@@ -9,14 +9,8 @@ main:
   - title: "Projects"
     url: /portfolio/
     
-  - title: "Talks"
+  - title: "Service"
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /teaching/
