@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr.-Ing. Jan-Niklas Voigt-Antons, Dipl.-Psych."
+title                    : "Prof. Dr.-Ing. Dipl.-Psych. Jan-Niklas Voigt-Antons"
 title_separator          : "-"
-name                     : &name "Dr.-Ing. Jan-Niklas Voigt-Antons, Dipl.-Psych."
+name                     : &name "Prof. Dr.-Ing. Dipl.-Psych. Jan-Niklas Voigt-Antons"
 description              : &description "Research in media experience (QoE, physiology) and interaction design"
 url                      : https://jantons.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "voigt-antons.de/" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr.-Ing. Jan-Niklas Voigt-Antons, Dipl.-Psych."
+  name             : "Prof. Dr.-Ing. Dipl.-Psych. Jan-Niklas Voigt-Antons"
   avatar           : "profile.png"
   bio              : "Research in media experience (QoE, physiology) and interaction design"
-  location         : "Berlin, Germany"
-  employer         : "Technische Universität Berlin"
+  location         : "Hamm, Germany"
+  employer         : "Hamm-Lippstadt University of Applied Sciences"
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=IFIaOZsAAAAJ&hl=en"
   email            : "jan-niklas@voigt-antons.de"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jantons"
+  github           : "jnvoigtantons"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "janntons"
+  twitter          :
   vine             :
   weibo            :
   xing             :
