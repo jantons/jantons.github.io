@@ -64,8 +64,8 @@ def html_escape(text):
 import os
 for row, item in publications.iterrows():
     
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
+    md_filename = item.url_slug + ".md"
+    html_filename = item.url_slug
     year = item.pub_date[:4]
     
     ## YAML variables
@@ -73,6 +73,9 @@ for row, item in publications.iterrows():
     md = "---\ntitle: \""   + item.title + '"\n'
     
     md += """collection: publications"""
+    
+    if len(str(item.category)) > 5:
+        md = "---\ncategory: \""   + item.category + '"\n'
     
     md += """\npermalink: /publication/""" + html_filename
     
