@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Prof. Dr.-Ing. Jan-Niklas Voigt-Antons"
 description              : &description "Research in media experience (QoE, physiology) and interaction design"
 url                      : https://jantons.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "voigt-antons.de/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Prof. Dr.-Ing. Jan-Niklas Voigt-Antons"
-  pronouns         : "he/him"  
+  pronouns         : "Hamm-Lippstadt University of Applied Sciences"  
   bio              : "Research in media experience (QoE, physiology) and interaction design"
   location         : "Hamm - Lippstadt - Berlin, Germany"
-  employer         : "Hamm-Lippstadt University of Applied Sciences "
+  employer         : # DATA 
   uri              : "https://www.voigt-antons.de/" 
   email            : "jan-niklas@voigt-antons.de" 
 
