@@ -72,9 +72,9 @@ for row, item in publications.iterrows():
     
     md = "---\ntitle: \""   + item.title + '"\n'
     
-    md += """collection: publications"""
+    md += """collection: publications\n"""
     
-    if len(str(item.category)) > 5:
+    if len(str(item.category)) > 4:
         md += "---\ncategory: \""   + item.category + '"\n'
     
     md += """\npermalink: /publication/""" + html_filename
