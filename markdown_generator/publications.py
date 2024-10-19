@@ -71,6 +71,8 @@ for row, item in publications.iterrows():
     ## YAML variables
     
     md = "---\ntitle: \""   + item.title + '"'
+
+    md += "\nauthors: \""   + item.authors + '"'
     
     md += """\ncollection: publications"""
     
@@ -96,7 +98,7 @@ for row, item in publications.iterrows():
     ## Markdown description for individual page
     
     if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download publication here</a>\n" 
+        md += "\n\n<a href='" + item.paper_url + "'>Download publication here.</a>\n" 
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
